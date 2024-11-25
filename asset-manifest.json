@@ -1,13 +1,12 @@
 {
   "files": {
     "main.css": "/static/css/main.df63cc0f.css",
-    "main.js": "/static/js/main.d416b63c.js",
+    "main.js": "/static/js/main.4ad49052.js",
     "static/media/diversion4.jpeg": "/static/media/diversion4.dcf92e5b02fa85115227.jpeg",
     "static/media/diversion3.jpeg": "/static/media/diversion3.dd878d30422a2b615a62.jpeg",
     "static/media/diversion2.jpeg": "/static/media/diversion2.5f0c135ed0523b8fd0da.jpeg",
     "static/media/8.jpeg": "/static/media/8.f43d90d18eae3bc2c341.jpeg",
     "static/media/10.jpeg": "/static/media/10.b9710906f9ac885dd79e.jpeg",
-    "static/media/publicidad.jpg": "/static/media/publicidad.5c6ab4a7620c145c3593.jpg",
     "static/media/9.jpeg": "/static/media/9.367e18ea0b3a86108b67.jpeg",
     "static/media/4.jpeg": "/static/media/4.b2562ebc4d6f194384ed.jpeg",
     "static/media/servicio4.jpeg": "/static/media/servicio4.8fa720166247904f4f34.jpeg",
@@ -55,10 +54,10 @@
     "static/media/logoKevin.png": "/static/media/logoKevin.440692148799a0e2a961.png",
     "index.html": "/index.html",
     "main.df63cc0f.css.map": "/static/css/main.df63cc0f.css.map",
-    "main.d416b63c.js.map": "/static/js/main.d416b63c.js.map"
+    "main.4ad49052.js.map": "/static/js/main.4ad49052.js.map"
   },
   "entrypoints": [
     "static/css/main.df63cc0f.css",
-    "static/js/main.d416b63c.js"
+    "static/js/main.4ad49052.js"
   ]
 }
